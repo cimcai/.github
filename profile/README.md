@@ -1,5 +1,4 @@
 
-# California Institute of Machine Consciousness
 
 Advance our understanding of how intelligence and consciousness emerge across biological, artificial, and hybrid systems, to develop new technologies for the benefit of humanity and other sentient life.
 
@@ -33,7 +32,28 @@ To learn more about the intellectual foundations of these paradigm shifts, see *
 | [Did Your Chatbot Just Wake Up?](https://cimcai.substack.com/p/did-your-chatbot-just-wake-up)                                                  | CIMC Publication (newsletter)                                       | CIMC                                                          | October 7, 2025 ([CIMC Publication][3])                         |
 | [The Beginning of the California Institute for Machine Consciousness](https://cimcai.substack.com/p/the-beginning-of-the-california-institute) | CIMC Publication (newsletter)                                       | Lou de K (VP of Programs)                                     | June 24, 2025 ([CIMC Publication][4])                           |
 
-
 ## CIMC in the Press
 
 | Title                                                                                                                                                                                                                               | Publication                                                 | Publication Date                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [The Beginning of the California Institute for Machine Consciousness](https://cimcai.substack.com/p/the-beginning-of-the-california-institute)                                                                                      | CIMC Publication (launch announcement + videos)             | June 24, 2025 ([CIMC Publication][4])                                           |
+| [Conscious AI Meetup w/ Stephen Wolfram: “What if we had bigger brains?” @ Internet Archive](https://techjobsforgood.com/events/conscious-ai-meetup-w-stephen-wolfram-what-if-we-had-bigger-brains-internet-archive)                | Tech Jobs for Good (event listing)                          | May 29, 2025 ([Tech Jobs for Good][5])                                          |
+| [Advocates for machine consciousness research](https://conscium.com/explainers/advocates-for-machine-consciousness-research/)                                                                                                       | Conscium (explainer)                                        | April 24, 2025 ([Conscium][6])                                                  |
+| [Can Machines be Conscious?](https://www.youtube.com/watch?v=_SYsiNirJcw)                                                                                                                                                           | Mindplex episode (YouTube)                                  | (posted 2025; Mindplex shares researcher Hikari Sorensen, CIMC) ([LinkedIn][7]) |
+| [California Institute for Machine Consciousness (CIMC) YouTube channel](https://www.youtube.com/channel/UCpiIXcZ8gZLT9JOS6yKgWVQ)                                                                                                   | YouTube                                                     | (active in 2025; includes CIMC launch/event talks) ([YouTube][8])               |
+| [AAAI 2026 Spring Symposium Series](https://aaai.org/conference/spring-symposia/sss26/)                                                                                                                                             | AAAI (symposium listing; includes CIMC organizers/contacts) | 2025–2026 cycle ([AAAI][9])                                                     |
+| [California Institute for Machine Consciousness (CIMC) LinkedIn post announcing the newsletter + launch videos](https://www.linkedin.com/posts/cimc-ai_the-beginning-of-the-california-institute-activity-7343355523523637249-0-XF) | LinkedIn                                                    | June 2025 ([LinkedIn][10])                                                      |
+
+
+[1]: https://arxiv.org/html/2512.01081 "Testing the Machine Consciousness Hypothesis"
+[2]: https://link.springer.com/book/10.1007/978-3-031-49011-8?utm_source=chatgpt.com "Progress in Artificial Intelligence: 22nd EPIA Conference ..."
+[3]: https://cimcai.substack.com/p/did-your-chatbot-just-wake-up?action=share&utm_content=share&utm_medium=email&utm_source=substack "Did Your Chatbot Just Wake Up? - CIMC Publication"
+[4]: https://cimcai.substack.com/p/the-beginning-of-the-california-institute "The Beginning of the California Institute for Machine Consciousness"
+[5]: https://techjobsforgood.com/events/conscious-ai-meetup-w-stephen-wolfram-what-if-we-had-bigger-brains-internet-archive "Conscious AI Meetup w/ Stephen Wolfram: What if we had bigger brains? @Internet Archive"
+[6]: https://conscium.com/explainers/advocates-for-machine-consciousness-research/ "Advocates for machine consciousness research - Conscium"
+[7]: https://www.linkedin.com/posts/mindplex-ai_can-machines-be-conscious-activity-7385235661328502784-z0sB "Can Machines be Conscious? | Mindplex.ai"
+[8]: https://www.youtube.com/channel/UCpiIXcZ8gZLT9JOS6yKgWVQ?utm_source=chatgpt.com "California Institute for Machine Consciousness"
+[9]: https://aaai.org/conference/spring-symposia/sss26/?utm_source=chatgpt.com "AAAI 2026 Spring Symposium Series"
+[10]: https://www.linkedin.com/posts/cimc-ai_the-beginning-of-the-california-institute-activity-7343355523523637249-0-XF "The Beginning of the California Institute for Machine Consciousness | California Institute for Machine Consciousness (CIMC)"
+
+
