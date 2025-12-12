@@ -1,5 +1,5 @@
 
-# Machine Consciousness
+# California Institute of Machine Consciousness
 
 Advance our understanding of how intelligence and consciousness emerge across biological, artificial, and hybrid systems, to develop new technologies for the benefit of humanity and other sentient life.
 
