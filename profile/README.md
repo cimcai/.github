@@ -1,4 +1,5 @@
 
+# Machine Consciousness
 
 Advance our understanding of how intelligence and consciousness emerge across biological, artificial, and hybrid systems, to develop new technologies for the benefit of humanity and other sentient life.
 
@@ -25,12 +26,18 @@ To learn more about the intellectual foundations of these paradigm shifts, see *
 
 ## Research Publications
 
-| Title                                                                                                                                          | Publication                                                         | Author(s)                                                     | Publication Date                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
-| [Testing the Machine Consciousness Hypothesis](https://arxiv.org/abs/2512.01081)                                                               | arXiv                                                               | Stephen Fitz (California Institute for Machine Consciousness) | November 30, 2025 ([arXiv][1])                                  |
-| [A Path to Generative Artificial Selves](https://doi.org/10.1007/978-3-031-49011-8_2)                                                          | Lecture Notes in Computer Science (EPIA 2023 proceedings, Springer) | Liane Gabora; Joscha Bach                                     | September 2023 (conf.) / 2023 (proceedings) ([SpringerLink][2]) |
-| [Did Your Chatbot Just Wake Up?](https://cimcai.substack.com/p/did-your-chatbot-just-wake-up)                                                  | CIMC Publication (newsletter)                                       | CIMC                                                          | October 7, 2025 ([CIMC Publication][3])                         |
-| [The Beginning of the California Institute for Machine Consciousness](https://cimcai.substack.com/p/the-beginning-of-the-california-institute) | CIMC Publication (newsletter)                                       | Lou de K (VP of Programs)                                     | June 24, 2025 ([CIMC Publication][4])                           |
+
+| Title                                                                                                                                                            | Publication                                                         | Author(s)                                                              | Publication Date                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [Computational Irreducibility, Probabilistic Generalisations and the Observer](https://raw.githubusercontent.com/cimcai/bibliographies/main/seminar/CIMC_Philosophy_Seminar_1_Computational_Irreduciblity.pdf) | CIMC Philosophy Seminar (Working Paper) | Joscha Bach; Paul Borrill; Joel Dietz; David Kammeyer; Hikari Sorensen | February 14, 2026 |
+| [Artificial Intelligence, Dreaming, and God](https://raw.githubusercontent.com/cimcai/bibliographies/main/seminar/CIMC_Philosophy_Seminar_2_AI_Dreams_and_God.pdf) | CIMC Philosophy Seminar (Working Paper) | Joscha Bach; Joel Dietz; Dave Kammeyer | February 14, 2026 |
+| [Embodied Skill, Neural Coupling and the Interoperability of Minds](https://raw.githubusercontent.com/cimcai/bibliographies/main/seminar/CIMC_Philosophy_Seminar_3_Interoperability_of_Minds.pdf) | CIMC Philosophy Seminar (Working Paper) | Joscha Bach; Joel Dietz; David Kammeyer; Seth Stafford | February 14, 2026 |
+| [ Machine Consciousness Hypothesis](https://cimc.ai/cimcHypothesis.pdf)                                                                                 | arXiv                                                               | Joscha Bach; Hikari Sorensen  (California Institute for Machine Consciousness)          | Jan 15, 2025 ([Cimc.ai][1])                                  |
+| [Testing the Machine Consciousness Hypothesis](https://arxiv.org/abs/2512.01081)                                                                                 | arXiv                                                               | Stephen Fitz (California Institute for Machine Consciousness)          | November 30, 2025 ([arXiv][1])                                  |
+| [A Path to Generative Artificial Selves](https://doi.org/10.1007/978-3-031-49011-8_2)                                                                            | Lecture Notes in Computer Science (EPIA 2023 proceedings, Springer) | Liane Gabora; Joscha Bach                                              | September 2023 (conf.) / 2023 (proceedings) ([SpringerLink][2]) |
+| [Did Your Chatbot Just Wake Up?](https://cimcai.substack.com/p/did-your-chatbot-just-wake-up)                                                                    | CIMC Publication (newsletter)                                       | CIMC                                                                   | October 7, 2025 ([CIMC Publication][3])                         |
+| [The Beginning of the California Institute for Machine Consciousness](https://cimcai.substack.com/p/the-beginning-of-the-california-institute)                   | CIMC Publication (newsletter)                                       | Lou de K (VP of Programs)                                              | June 24, 2025 ([CIMC Publication][4])                           |
+
 
 ## CIMC in the Press
 
@@ -55,5 +62,4 @@ To learn more about the intellectual foundations of these paradigm shifts, see *
 [8]: https://www.youtube.com/channel/UCpiIXcZ8gZLT9JOS6yKgWVQ?utm_source=chatgpt.com "California Institute for Machine Consciousness"
 [9]: https://aaai.org/conference/spring-symposia/sss26/?utm_source=chatgpt.com "AAAI 2026 Spring Symposium Series"
 [10]: https://www.linkedin.com/posts/cimc-ai_the-beginning-of-the-california-institute-activity-7343355523523637249-0-XF "The Beginning of the California Institute for Machine Consciousness | California Institute for Machine Consciousness (CIMC)"
-
 
